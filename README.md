@@ -60,13 +60,13 @@ O sistema apresenta:
 1. Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/controle-gastos.git
+git clone https://github.com/gabrielriosdias/Controle_De_Gastos.git
 ```
 
 2. Acesse a pasta:
 
 ```
-cd controle-gastos
+cd Controle_De_Gastos
 ```
 
 3. Abra o arquivo:
